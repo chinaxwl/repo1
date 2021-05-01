@@ -1,0 +1,17 @@
+{
+  "groups": [
+    {
+      "name": "my.hello",
+      "type": "com.xwl.HelloProperties",
+      "sourceType": "com.xwl.HelloProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "my.hello.name",
+      "type": "java.lang.String",
+      "sourceType": "com.xwl.HelloProperties"
+    }
+  ],
+  "hints": []
+}
